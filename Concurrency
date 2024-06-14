@@ -1,1 +1,13 @@
 Concurrency is about enabling multiple tasks or processes to work or happen simultaneously, whether it's through true parallel execution or through interleaved execution on a single-core processor. It's a fundamental concept in computer science and software engineering for improving performance, responsiveness, and resource utilization in systems that need to handle multiple operations concurrently.
+
+Concurrency:
+Broad Concept: Concurrency is a broader concept that involves dealing with multiple tasks at once. It encompasses both parallelism and interleaved execution.
+Task Management: Concurrency is about the structure and control of multiple tasks, whether they are running simultaneously or not.
+Programming Models: Concurrency can be implemented using threads, coroutines, event loops, etc.
+
+Parallelism:
+Specific Implementation: Parallelism is a specific form of concurrency where multiple tasks are executed simultaneously.
+Execution: Parallelism strictly requires multiple processing units to execute tasks at the same time.
+Focus: The primary goal is to improve performance by leveraging hardware capabilities for simultaneous execution.
+
+In summary, while concurrency is a general concept about managing multiple tasks, parallelism is specifically about performing multiple tasks simultaneously. Thus, parallelism is a form of concurrency, but not all concurrency involves parallelism.
