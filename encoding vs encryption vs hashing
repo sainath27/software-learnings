@@ -6,3 +6,9 @@ Ex: text can encoded into binary for computer processing, or audio can be encode
 Conversion vs Encoding: Encoding specifically involves chanding the representation of data, often for storage, transmission, or processing.
 
 
+
+Hashing/Hashing algorithms: 
+Def: Math formula that transform messages or data into deterministic, fixed-length representational strings.
+
+Hashes are primarily used for verification and integrity checks rather than encryption and decryption.
+
