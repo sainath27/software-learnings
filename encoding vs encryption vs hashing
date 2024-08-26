@@ -1,5 +1,5 @@
 Encoding :
-the process of converting data or informatin from one form to other another. this can involve chanding the format, structure, or represenation of the data to make it compatible with a specific system or for transmisson, or storage, or processing purposes.
+The process of converting data or informatin from one form to other another. this can involve chanding the format, structure, or represenation of the data to make it compatible with a specific system or for transmisson, or storage, or processing purposes.
 
 Ex: text can encoded into binary for computer processing, or audio can be encoded into mp3 format for storage and playback.
 
@@ -11,8 +11,10 @@ Hashing/Hashing algorithms:
 Def: Math formula that transform messages or data into deterministic, fixed-length representational strings.
 
 Hashes are primarily used for verification and integrity checks rather than encryption and decryption.
-
+Algos: MD5, SHA-1, SHA-2, SHA-3
 
 
 Encryption:
 Encryption is the process of converting information or data into a code, especially to prevent unauthorized access.
+Types: Symmetric, Asymmetric
+Algos: AES, RSA
